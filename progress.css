@@ -78,27 +78,6 @@ body{
 .section{
   padding:80px 0;
 }
-
-.section-b{
-  background:#987;
-  color:#fff;
-}
-
-.section-c{
-  background:#a3c2c2;
-  color:#fff;
-}
-.section-d{
-  background:#e6ffe6
-;
-  color:#fff;
-}
-.section-e{
-  background:#ffffcc
-;
-  color:#fff;
-}
-}
 @media(max-width:960px){
   .container{
     padding-right:3rem;
@@ -107,7 +86,7 @@ body{
 }
 .ac-container{
 	width: 800px;
-	height: 1000px;
+	height: 500px;
 	margin: 100px auto 300px auto;
 }ac-container label{
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
