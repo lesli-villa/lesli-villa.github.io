@@ -44,6 +44,7 @@ span {
   height: 65px;
   border-bottom-right-radius: 2px ;
   border-bottom-left-radius: 2px ;
+  z-index: 100;
 }
 section{
   text-align: center;
